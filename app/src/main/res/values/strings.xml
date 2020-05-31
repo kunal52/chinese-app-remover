@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chinese App Uninstaller</string>
+    <string name="app_icon">App Icon</string>
+    <string name="package_name">Package Name</string>
+    <string name="scan">Scan Apps</string>
+    <string name="no_chinese_app_found_on_your_device_nyou_are_safe">No chinese app found on your device\n\n\nYou are safe</string>
+</resources>
